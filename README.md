@@ -1,5 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+#[![Build Status](https://ms-delabarr.visualstudio.com/ContosoAir/_apis/build/status/ndelabarre.ContosoAir?branchName=master)](https://ms-delabarr.visualstudio.com/ContosoAir/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
