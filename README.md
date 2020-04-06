@@ -1,4 +1,4 @@
-#[![Build Status](https://ms-delabarr.visualstudio.com/ContosoAir/_apis/build/status/ndelabarre.ContosoAir?branchName=master)](https://ms-delabarr.visualstudio.com/ContosoAir/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://ms-delabarr.visualstudio.com/ContosoAir/_apis/build/status/ndelabarre.ContosoAir?branchName=master)](https://ms-delabarr.visualstudio.com/ContosoAir/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
